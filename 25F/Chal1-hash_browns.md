@@ -1,6 +1,6 @@
 # Challange 1 - hash-browns
 
-**Date:** 2025-09-29
+**Date:** 2025-09-29 <br>
 **Category:** WEB
 
 ## Flag 1
